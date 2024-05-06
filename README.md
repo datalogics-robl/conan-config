@@ -12,7 +12,7 @@ This configuration can be installed with `conan config install`.
 ## Using
 
 ```bash
-$ conan config install git@octocat.dlogics.com:datalogics/conan-config.git
+$ conan config install git@github.com:datalogics/conan-config.git
 ```
 
 ## Tagging
