@@ -8,6 +8,6 @@ arch_build=x86_64
 compiler=Visual Studio
 compiler.version=17
 compiler.runtime=MT
-compiler.toolset=v141
+compiler.toolset=v143
 compiler.cppstd=17
 build_type=Release
