@@ -7,5 +7,5 @@ compiler=msvc
 compiler.version=193
 compiler.runtime=dynamic
 compiler.update=None
-compiler.toolset=v141
+compiler.toolset=v143
 build_type=Release
