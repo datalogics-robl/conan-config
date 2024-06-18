@@ -1,0 +1,11 @@
+include(msvc-common)
+[settings]
+os=Windows
+os.subsystem=None
+arch=x86_64
+compiler=msvc
+compiler.version=194
+compiler.runtime=dynamic
+compiler.update=0
+compiler.toolset=v143
+build_type=Release
