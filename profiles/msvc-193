@@ -6,6 +6,6 @@ arch=x86_64
 compiler=msvc
 compiler.version=193
 compiler.runtime=dynamic
-compiler.update=None
+compiler.update=4
 compiler.toolset=v143
 build_type=Release
