@@ -1,0 +1,7 @@
+[settings]
+os=Macos
+os.version=10.13
+[env]
+MACOSX_DEPLOYMENT_TARGET=10.13
+[buildenv]
+MACOSX_DEPLOYMENT_TARGET=10.13
