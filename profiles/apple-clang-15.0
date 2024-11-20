@@ -1,0 +1,9 @@
+include(macos-10.13)
+include(options-libtiff)
+include(boost-options)
+[settings]
+os=Macos
+compiler=apple-clang
+compiler.version=15.0
+compiler.libcxx=libc++
+build_type=Release
