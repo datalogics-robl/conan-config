@@ -1,0 +1,7 @@
+include(gcc-10-aix72-64)
+include(cppstd-14)
+include(options-libtiff)
+[options]
+boost:extra_b2_flags=cxxstd=14
+[buildenv]
+boost:CXXFLAGS="-fexceptions -pthread -mcpu=power8 -maix64 -mvsx -mcmodel=large -std=c++14"
