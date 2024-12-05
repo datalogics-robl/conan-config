@@ -1,9 +1,9 @@
 [options]
-libtiff:lzma=False
-libtiff:libdeflate=False
-libtiff:zstd=False
-libtiff:jbig=False
-libtiff:webp=False
-libtiff:cxx=True
-libtiff:jpeg=libjpeg
-libtiff:zlib=True
+libtiff/*:lzma=False
+libtiff/*:libdeflate=False
+libtiff/*:zstd=False
+libtiff/*:jbig=False
+libtiff/*:webp=False
+libtiff/*:cxx=True
+libtiff/*:jpeg=libjpeg
+libtiff/*:zlib=True
