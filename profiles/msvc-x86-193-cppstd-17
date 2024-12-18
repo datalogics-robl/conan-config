@@ -1,0 +1,4 @@
+include(msvc-193)
+include(cppstd-17)
+[settings]
+arch=x86
