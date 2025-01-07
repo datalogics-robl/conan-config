@@ -1,0 +1,40 @@
+{
+ "remotes": [
+  {
+   "name": "conan2-local",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-local",
+   "verify_ssl": true,
+   "disabled": false
+  },
+  {
+   "name": "conan2-center-dl",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl",
+   "verify_ssl": true,
+   "disabled": false
+  },
+  {
+   "name": "conan2-center-dl",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl",
+   "verify_ssl": true,
+   "disabled": false
+  },
+  {
+   "name": "conan2-center-dl-staging",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl",
+   "verify_ssl": true,
+   "disabled": true
+  },
+  {
+   "name": "conan2-alias-production",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-alias-production",
+   "verify_ssl": true,
+   "disabled": false
+  },
+  {
+   "name": "conan2-alias-staging",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-alias-staging",
+   "verify_ssl": true,
+   "disabled": true
+  }
+ ]
+}
