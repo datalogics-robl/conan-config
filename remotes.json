@@ -13,14 +13,8 @@
    "disabled": false
   },
   {
-   "name": "conan2-center-dl",
-   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl",
-   "verify_ssl": true,
-   "disabled": false
-  },
-  {
    "name": "conan2-center-dl-staging",
-   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl",
+   "url": "https://datalogics.jfrog.io/artifactory/api/conan/conan2-center-dl-staging",
    "verify_ssl": true,
    "disabled": true
   },
