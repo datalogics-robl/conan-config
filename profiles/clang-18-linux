@@ -1,0 +1,10 @@
+[settings]
+os=Linux
+compiler=clang
+compiler.version=18
+compiler.libcxx=libstdc++
+build_type=Release
+[buildenv]
+CC=/usr/bin/clang
+CXX=/usr/bin/clang++
+

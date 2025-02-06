@@ -1,0 +1,5 @@
+[settings]
+os=Macos
+os.version=12.0
+[buildenv]
+MACOSX_DEPLOYMENT_TARGET=12.0
