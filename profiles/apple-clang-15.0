@@ -4,7 +4,7 @@ include(boost-options)
 [settings]
 os=Macos
 os.sdk=macosx
-os.sdk_version=14.2
+os.sdk_version=14.0
 os.subsystem=None
 compiler=apple-clang
 compiler.version=15.0
